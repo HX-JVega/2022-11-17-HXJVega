@@ -11,7 +11,7 @@ const { Queue, Node, LinkedList, BinarySearchTree } = require("./DS.js");
 
 var countArray = function (array) {
   // Tu código aca:
-  // estoy probando si anda el push
+  // hagamos de cuenta que resolví este
 };
 
 // Implementar la función countProps: a partir de un objeto en el cual cada propiedad puede contener
